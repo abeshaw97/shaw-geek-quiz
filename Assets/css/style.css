@@ -6,7 +6,7 @@ color:white;
 }
 #count
 {
-   margin: right 50px;
+float: right;
    font-size:30px;
    color: rgb(40, 4, 75)
 }
