@@ -23,6 +23,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-![](assets/img/picture.png)
+![](assets/img/picture.png).  added image but dont know why its not showing here.
 
 https://abeshaw97.github.io/shaw-geek-quiz/
