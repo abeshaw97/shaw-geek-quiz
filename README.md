@@ -23,7 +23,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
--- add screenshot of quiz image when finished--
+![](assets/img/picture.png)
 
---Published link will go here when finished--
-# shaw-geek-quiz
+https://abeshaw97.github.io/shaw-geek-quiz/
